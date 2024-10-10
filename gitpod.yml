@@ -1,0 +1,3 @@
+tasks:
+  - init: echo "Initializing..."
+  - command: echo "Running application..."
