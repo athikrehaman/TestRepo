@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zsk2pwWzN6iEYsJMPGievq70xEHmBc+j9m5aayYTWAuNO0QywYgQHkPGhZm2zRGBkYfZJ42lghPR6VwHMN6YAw==",
+  "success": true,
+  "projectFilePath": "/workspace/TestRepo/TestingExProject/TestingExProject.csproj",
+  "expectedPackageFiles": [
+    "/home/gitpod/.nuget/packages/nunit/4.2.2/nunit.4.2.2.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/nunit3testadapter/4.6.0/nunit3testadapter.4.6.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/selenium.webdriver/4.25.0/selenium.webdriver.4.25.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/selenium.webdriver.chromedriver/129.0.6668.9100/selenium.webdriver.chromedriver.129.0.6668.9100.nupkg.sha512"
+  ],
+  "logs": []
+}
